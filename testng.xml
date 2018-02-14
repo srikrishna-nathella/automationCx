@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Default Suite" verbose="1" >
+    <test name="Currenex_testng" >
+        <classes>
+            <class name="common"/>
+            <class name="Splashscreen"/>
+            <class name="IndicativeRates"/>
+            <class name="login"/>
+            <class name="oneclicktrading"/>
+            <class name="Trades"/>
+            <class name="Positions"/>
+            <class name="ActiveOrders"/>
+            <class name="DoneTrades"/>
+            <!--<class name="alerts"/>
+            <class name="charts"/>-->
+        </classes>
+    </test>
+</suite>
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<WLBuilds>
+    <build name="Currenex">
+        <wl_buildname>Currenex</wl_buildname>
+        <Company_Name>Currenex Inc</Company_Name>
+        <Application_Name>iOCBCfx</Application_Name>
+        <Copy_Right>Currenex, Inc.</Copy_Right>
+        <Version_No>3.1.62</Version_No>
+        <INDICATIVE_RATES>Y</INDICATIVE_RATES>
+        <INT2>Y</INT2>
+        <BRET>Y</BRET>
+        <TKFX>Y</TKFX>
+        <stack_to_login>BRET</stack_to_login>
+        <username>MSF3000_viking</username>
+        <password>test1234</password>
+        <DISCLAIMER>Y</DISCLAIMER>
+        <EULA>Y</EULA>
+        <oct>Y</oct> <!--one click trading-->
+        <ccypair>EUR/JPY</ccypair>
+        <ratesSide>bid</ratesSide>
+    </build>
+
+    <build name="CGB">
+        <wl_buildname>CGB</wl_buildname>
+        <Company_Name>FXWise Trader</Company_Name>
+        <Application_Name>FXWise Trader</Application_Name>
+        <Copy_Right>2017　广发银行</Copy_Right>
+        <Version_No>3.1.67</Version_No>
+        <INDICATIVE_RATES>Y</INDICATIVE_RATES>
+        <INT2>Y</INT2>
+        <BRET>Y</BRET>
+        <TKFX>Y</TKFX>
+        <stack_to_login>INT2</stack_to_login>
+        <username>MSF100001</username>
+        <password>test1234</password>
+        <DISCLAIMER>N</DISCLAIMER>
+        <EULA>Y</EULA>
+        <oct>Y</oct> <!--one click trading-->
+        <ccypair>EUR/JPY</ccypair>
+        <ratesSide>bid</ratesSide>
+    </build>
+</WLBuilds>
